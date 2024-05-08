@@ -6,3 +6,8 @@ Even though the "message" feature is critical in a messaging application, its de
 
 ## Question 2: 
 Unit testing is ideal for the "max message length" feature, which restricts user input to no more than 80 characters, operates with a clear, isolated logic that can be tested independently. A unit test can simulate inputs to the system and check whether the length constraint is enforced accurately, providing a straightforward verification of this specific functionality.
+
+
+[expose.html](https://tsatn.github.io/Lab5_Starter/expose.html)
+
+[explore.html](https://tsatn.github.io/Lab5_Starter/explore.html)

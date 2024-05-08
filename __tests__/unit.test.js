@@ -87,4 +87,5 @@ test('invalid hex color with 4 char', () => {
 });
 
 test('invalid hex color with non-hex', () => {
-  expect(isHexCo
+  expect(isHexColor('#zzzzzz')).toBe(false);
+});
